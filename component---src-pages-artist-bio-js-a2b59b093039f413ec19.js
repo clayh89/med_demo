@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[119],{336:function(e,t,a){a.r(t);var l=a(7294),n=a(1597),r=a(6085),u=a(262);t.default=function(){return l.createElement(r.Z,null,l.createElement(u.Z,{title:"Artist bio"}),l.createElement("h1",null,"About the artist"),l.createElement("p",null,l.createElement(n.Link,{to:"/"},"Go back to the homepage")))}}}]);
+//# sourceMappingURL=component---src-pages-artist-bio-js-a2b59b093039f413ec19.js.map
